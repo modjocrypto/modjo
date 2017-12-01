@@ -1,0 +1,9 @@
+Building modjo
+
+See doc/readme-qt.rst for instructions on building modjo QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of modjo.
+
+See doc/build-*.txt for instructions on building modjod,
+the intended-for-services, no-graphical-interface, reference
+implementation of modjo.
